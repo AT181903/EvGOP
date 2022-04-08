@@ -1,8 +1,8 @@
 # EvGOP (Evolutional Gioco dell'Oca Pazza)
-Rivisitazione dal tradizionale "Gioco dell'Oca Pazza" basato sull'evoluzione del giocatore
+Reinterpretation of the traditional "Crazy Goose Game" (Gioco dell'Oca Pazza) based on player evolution
 
-## Come eseguire il programma
-Dal terminale, nella directory del progetto, eseguire i seguenti comandi uno per volta: 
+## How to execute it
+In the project directory run the following commands one at a time:
 
 mkdir build
 
@@ -12,14 +12,14 @@ cmake ..
  
 make 
 
-Per esguire da terminale: ./EvGOP
+To execute: ./EvGOP
 
-Altrimenti aprire la directory "build" ed eseguire il file "EvGOP"
+Otherwise, open the "build" directory and run the "EvGOP" file
 
-## Come giocare
-* Inserire il numero dei giocatori
-* Scegliere il nome per ciascun giocatore
-* Premere invio per proseguire
+## How to play it
+* Enter the number of players
+* Choose a name for each player
+* Press enter to continue
 
-## Licenza
-Il progetto viene rilasciato con GNU General Public License.
+## License
+The project is released with GNU General Public License
